@@ -1,0 +1,33 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Milad laa",
+      "email": "milad@test.com",
+      "phoneNumber": "09124583614",
+      "password": "mim14La@3",
+      "passwordConfirm": "mim14La@3",
+      "gender": "0",
+      "nationality": "GER",
+      "intrests": [
+        "React.js",
+        "Vue.js"
+      ],
+      "terms": true
+    },
+    {
+      "name": "miladlad",
+      "email": "milad@test.com",
+      "phoneNumber": "02145855852",
+      "password": "Mm123456@",
+      "passwordConfirm": "Mm123456@",
+      "gender": "0",
+      "nationality": "US",
+      "intrests": [
+        "React.js"
+      ],
+      "terms": true,
+      "id": "kGC5VTV"
+    }
+  ]
+}
